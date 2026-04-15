@@ -19,17 +19,6 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,java,python,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,vscode,git,github" />
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -43,6 +32,20 @@
 </div>
 
 <hr/>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,java,python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,vscode,git,github" />
+</div>
+
+<br/>
+<hr/>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K4V1DU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
