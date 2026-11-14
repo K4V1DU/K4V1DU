@@ -43,8 +43,8 @@
 <radialGradient id="winG" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#bdeaff"/><stop offset=".6" stop-color="#2d9cf0"/><stop offset="1" stop-color="#1b4fc0"/></radialGradient>
 
 
-<linearGradient id="wv1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0a3a7c"/><stop offset=".5" stop-color="#0b5d8e"/><stop offset="1" stop-color="#0a3a7c"/></linearGradient>
-<linearGradient id="wv2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0a50b0"/><stop offset=".5" stop-color="#0580aa"/><stop offset="1" stop-color="#0a50b0"/></linearGradient>
+<linearGradient id="wv1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#4c1d95"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>
+<linearGradient id="wv2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#6d28d9"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
 <linearGradient id="wv3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0b46a0"/><stop offset=".5" stop-color="#0a74a4"/><stop offset="1" stop-color="#0b46a0"/></linearGradient>
 
 </defs>
@@ -982,7 +982,7 @@
 </g>
 </g>
 <rect width="2048" height="768" fill="url(#vig)"/>
-<path class="w1" d="M0,612 Q256,564 512,612 T1024,612 T1536,612 T2048,612 T2560,612 T3072,612 T3584,612 T4096,612 L4096,700 L0,700 Z" fill="#0d1117" opacity="0.4"/>
-<path class="w2" d="M0,626 Q256,590 512,626 T1024,626 T1536,626 T2048,626 T2560,626 T3072,626 T3584,626 T4096,626 L4096,700 L0,700 Z" fill="#0d1117" opacity="0.72"/>
+<path class="w1" d="M0,606 Q256,554 512,606 T1024,606 T1536,606 T2048,606 T2560,606 T3072,606 T3584,606 T4096,606 L4096,700 L0,700 Z" fill="url(#wv1)" opacity="0.75"/>
+<path class="w2" d="M0,624 Q256,584 512,624 T1024,624 T1536,624 T2048,624 T2560,624 T3072,624 T3584,624 T4096,624 L4096,700 L0,700 Z" fill="url(#wv2)" opacity="0.85"/>
 <path class="w3" d="M0,640 Q256,612 512,640 T1024,640 T1536,640 T2048,640 T2560,640 T3072,640 T3584,640 T4096,640 L4096,700 L0,700 Z" fill="#0d1117" opacity="1"/>
 </g></svg>
