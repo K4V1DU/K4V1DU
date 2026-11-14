@@ -5,13 +5,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://kavidupurnamal.vercel.app/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="https://kavidupurnamal.vercel.app/"><img src="assets/btn-portfolio.svg" height="56" alt="Portfolio" /></a>
   &nbsp;
-  <a href="mailto:kavidupurnamal2001@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+  <a href="mailto:kavidupurnamal2001@gmail.com"><img src="assets/btn-email.svg" height="56" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kavidu-purnamal-7676303a5/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="tel:+94715294616"><img src="assets/btn-phone.svg" height="40" alt="Phone" /></a>
+  <a href="https://www.linkedin.com/in/kavidu-purnamal-7676303a5/"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
 </p>
 
 <br/>
