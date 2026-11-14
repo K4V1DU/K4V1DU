@@ -47,6 +47,7 @@
 <linearGradient id="wv2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#6d28d9"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
 <linearGradient id="wv3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0b46a0"/><stop offset=".5" stop-color="#0a74a4"/><stop offset="1" stop-color="#0b46a0"/></linearGradient>
 
+<mask id="cut" maskUnits="userSpaceOnUse" x="0" y="0" width="2048" height="768"><path class="w3" d="M0,652 Q256,624 512,652 T1024,652 T1536,652 T2048,652 T2560,652 T3072,652 T3584,652 T4096,652 L4096,0 L0,0 Z" fill="#fff"/></mask>
 </defs>
 <style>
 .s1{animation:dot 3.2s ease-in-out infinite}.s2{animation:dot 4.6s ease-in-out infinite}.s3{animation:dot 5.8s ease-in-out infinite}
@@ -94,7 +95,7 @@
 @keyframes wv{to{transform:translateX(-2048px)}}
 </style>
 <clipPath id="all"><rect width="2048" height="768"/></clipPath>
-<g clip-path="url(#all)">
+<g clip-path="url(#all)" mask="url(#cut)">
 <rect width="2048" height="768" fill="url(#bg)"/>
 <g class="neb1"><g filter="url(#cloud)" transform="translate(0,0)">
 <ellipse cx="70" cy="110" rx="170" ry="170" fill="#6d28d9" opacity="0.42"/>
@@ -984,5 +985,4 @@
 <rect width="2048" height="768" fill="url(#vig)"/>
 <path class="w1" d="M0,606 Q256,554 512,606 T1024,606 T1536,606 T2048,606 T2560,606 T3072,606 T3584,606 T4096,606 L4096,700 L0,700 Z" fill="url(#wv1)" opacity="0.75"/>
 <path class="w2" d="M0,624 Q256,584 512,624 T1024,624 T1536,624 T2048,624 T2560,624 T3072,624 T3584,624 T4096,624 L4096,700 L0,700 Z" fill="url(#wv2)" opacity="0.85"/>
-<path class="w3" d="M0,640 Q256,612 512,640 T1024,640 T1536,640 T2048,640 T2560,640 T3072,640 T3584,640 T4096,640 L4096,700 L0,700 Z" fill="#0d1117" opacity="1"/>
 </g></svg>
