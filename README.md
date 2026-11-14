@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Kavidu Purnamal" />
+  <img src="assets/banner.png" width="100%" alt="Kavidu Purnamal - Space Banner" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=60&duration=3500&color=FF7011&lines=Hi+There!+%F0%9F%91%8B;I'm+Kavidu+Purnamal;MERN+%7C+Flutter+%7C+Unity;Welcome+To+My+Profile" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=60&duration=3500&color=A855F7&lines=Hi+There!+%F0%9F%91%8B;I'm+Kavidu+Purnamal+%F0%9F%9A%80;MERN+%7C+Flutter+%7C+Unity;Welcome+To+My+Universe+%F0%9F%8C%8C" alt="Typing intro" />
 </h1>
 
 <p align="center">
-  I'm a passionate developer from Sri Lanka, studying at <b>SLIIT</b>. I build full-stack web apps with the <b>MERN stack</b>, mobile apps with <b>Flutter</b>, and games with <b>Unity</b>. I learn new technologies fast and care about clean, usable software.
+  🪐 I'm a passionate developer from Sri Lanka, studying at <b>SLIIT</b>. I build full-stack web apps with the <b>MERN stack</b>, mobile apps with <b>Flutter</b>, and games with <b>Unity</b>. I learn new technologies fast and care about clean, usable software.
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
     <img src="https://img.shields.io/badge/Portfolio-ff7011?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:kavidupurnamal2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/kavidu-purnamal-7676303a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Missions</h2>
 
 <div align="center">
 <table>
@@ -72,26 +72,26 @@
 
 <br/>
 
-<h2 align="center">🛠️ Languages · Frameworks · Tools</h2>
+<h2 align="center">🛰️ Tech Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,dart" alt="Web and mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,java,python,javascript,typescript" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git,github" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,dart&theme=dark" alt="Web and mobile" /><br/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,java,python,javascript,typescript&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git,github&theme=dark" alt="Tools" />
 </div>
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Mission Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=K4V1DU&show_icons=true&theme=transparent&title_color=ff7011&icon_color=ff7011&text_color=9d9d9d&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4V1DU&layout=compact&theme=transparent&title_color=ff7011&text_color=9d9d9d&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=K4V1DU&show_icons=true&theme=transparent&title_color=A855F7&icon_color=ff7011&text_color=9d9dbd&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4V1DU&layout=compact&theme=transparent&title_color=A855F7&text_color=9d9dbd&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
-<h2 align="center">🐍 Contributions</h2>
+<h2 align="center">🐍 Orbit Contributions</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/K4V1DU/K4V1DU/output/github-snake-dark.svg" alt="Contribution snake" />
@@ -100,5 +100,5 @@
 <br/>
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer" width="100%" alt="" />
 </div>
