@@ -20,12 +20,8 @@
 
 <br/>
 
-<h2 align="center">🛰️ Tech Toolkit</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,dart&theme=dark" alt="Web and mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,java,python,javascript,typescript&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git,github&theme=dark" alt="Tools" />
+  <img src="assets/toolkit.svg" width="100%" alt="Tech Toolkit - React, Next.js, Node.js, Express, MongoDB, MySQL, Firebase, Flutter, Dart, Unity, C#, C, Java, Python, JavaScript, HTML, CSS, Tailwind, Figma, Git, GitHub" />
 </div>
 
 <br/>
