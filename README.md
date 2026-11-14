@@ -7,10 +7,6 @@
 </div>
 
 <p align="center">
-  🪐 I'm a passionate developer from Sri Lanka, studying at <b>SLIIT</b>. I build full-stack web apps with the <b>MERN stack</b>, mobile apps with <b>Flutter</b>, and games with <b>Unity</b>. I learn new technologies fast and care about clean, usable software.
-</p>
-
-<p align="center">
   🌐 <b>Portfolio:</b> <a href="https://kavidupurnamal.vercel.app/">kavidupurnamal.vercel.app</a>
 </p>
 
