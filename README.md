@@ -20,73 +20,12 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Missions</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Stack</th>
-    <th align="left">Links</th>
-  </tr>
-  <tr>
-    <td><b>🏠 Boodima.lk</b><br/><sub>Boarding rental platform</sub></td>
-    <td>MongoDB · Express · React · Node</td>
-    <td><a href="https://boodima.lk">Live</a> · <a href="https://github.com/K4V1DU/boodima">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>🏫 SmartCampus</b><br/><sub>Campus asset booking system</sub></td>
-    <td>React · Node.js · Spring Boot · MySQL</td>
-    <td><a href="https://github.com/K4V1DU/it3030-paf-2026-smart-campus-group50">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>🚗 Roadside Assistance</b><br/><sub>24/7 towing &amp; breakdown app</sub></td>
-    <td>Flutter · Dart · Firebase · Maps API</td>
-    <td><a href="https://kavidupurnamal.vercel.app/#work">Portfolio</a></td>
-  </tr>
-  <tr>
-    <td><b>💪 FitFlow</b><br/><sub>Workout &amp; meal plan app</sub></td>
-    <td>Flutter · Dart · Firebase · REST APIs</td>
-    <td><a href="https://kavidupurnamal.vercel.app/#work">Portfolio</a></td>
-  </tr>
-  <tr>
-    <td><b>🐍 Snakes Multiplayer</b><br/><sub>Arena snake game</sub></td>
-    <td>Unity · C#</td>
-    <td><a href="https://github.com/K4V1DU/SnakeMultiplayer">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>🍳 Kitchen Chaos</b><br/><sub>Cooking game</sub></td>
-    <td>Unity · C# · OOP</td>
-    <td><a href="https://github.com/K4V1DU/Kitchenchaos">Code</a></td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
 <h2 align="center">🛰️ Tech Toolkit</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,dart&theme=dark" alt="Web and mobile" /><br/>
   <img src="https://skillicons.dev/icons?i=unity,cs,c,java,python,javascript,typescript&theme=dark" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git,github&theme=dark" alt="Tools" />
-</div>
-
-<br/>
-
-<h2 align="center">📊 Mission Stats</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=K4V1DU&show_icons=true&theme=transparent&title_color=A855F7&icon_color=ff7011&text_color=9d9dbd&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4V1DU&layout=compact&theme=transparent&title_color=A855F7&text_color=9d9dbd&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Orbit Contributions</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/K4V1DU/K4V1DU/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 <br/>
