@@ -100,5 +100,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
