@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Kavidu Purnamal - Space Banner" />
-</div>
-
-<div align="center">
-  <img src="assets/greeting.svg" width="100%" alt="Hi there! I'm Kavidu Purnamal" />
+  <img src="assets/hero.svg" width="100%" alt="Hi there! I'm Kavidu Purnamal - software engineering student" />
 </div>
 
 <p align="center">
