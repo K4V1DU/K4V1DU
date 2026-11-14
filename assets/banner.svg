@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 768" width="2048" height="768" role="img" aria-label="Astronaut on the moon surrounded by planets, asteroids and a rocket">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 60 2048 614" width="2048" height="614" role="img" aria-label="Astronaut on the moon surrounded by planets, asteroids and a rocket">
 <defs>
 
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#02010a"/><stop offset=".55" stop-color="#05031a"/><stop offset="1" stop-color="#0c0830"/></linearGradient>
@@ -41,6 +41,11 @@
 <linearGradient id="trailG" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd36a"/><stop offset=".4" stop-color="#ff8a2a"/><stop offset="1" stop-color="#6a4bff" stop-opacity="0"/></linearGradient>
 <linearGradient id="shootG" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/></linearGradient>
 <radialGradient id="winG" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#bdeaff"/><stop offset=".6" stop-color="#2d9cf0"/><stop offset="1" stop-color="#1b4fc0"/></radialGradient>
+
+
+<linearGradient id="wv1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0a3a7c"/><stop offset=".5" stop-color="#0b5d8e"/><stop offset="1" stop-color="#0a3a7c"/></linearGradient>
+<linearGradient id="wv2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0a50b0"/><stop offset=".5" stop-color="#0580aa"/><stop offset="1" stop-color="#0a50b0"/></linearGradient>
+<linearGradient id="wv3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2048" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#0b46a0"/><stop offset=".5" stop-color="#0a74a4"/><stop offset="1" stop-color="#0b46a0"/></linearGradient>
 
 </defs>
 <style>
@@ -85,6 +90,8 @@
 @keyframes sh{0%{transform:translate(0,0);opacity:0}3%{opacity:1}13%{transform:translate(-520,260);opacity:0}100%{transform:translate(-520,260);opacity:0}}
 .pulse{animation:pl 2.8s ease-in-out infinite}
 @keyframes pl{0%,100%{opacity:.4}50%{opacity:1}}
+.w1{animation:wv 22s linear infinite}.w2{animation:wv 15s linear infinite reverse}.w3{animation:wv 10s linear infinite}
+@keyframes wv{to{transform:translateX(-2048px)}}
 </style>
 <clipPath id="all"><rect width="2048" height="768"/></clipPath>
 <g clip-path="url(#all)">
@@ -709,11 +716,8 @@
 <circle cx="1872" cy="332" r="98" fill="none" stroke="#7fdcff" stroke-width="3.5"/>
 <circle cx="1872" cy="332" r="101" fill="none" stroke="#bdf0ff" stroke-width="1.5" opacity=".6"/></g>
 <g class="hover">
-<g class="trail"><path d="M1618,150 C1565,188 1500,222 1395,262 C1470,238 1565,212 1630,168 Z" fill="url(#trailG)" opacity=".9"/>
-<path d="M1612,152 C1570,178 1520,206 1450,236 C1520,214 1580,192 1624,160 Z" fill="#ffe28a" opacity=".7"/>
-<g fill="#ffcf5a"><circle cx="1500" cy="205" r="2.4"/><circle cx="1458" cy="240" r="2"/><circle cx="1545" cy="190" r="1.8"/><circle cx="1420" cy="252" r="1.6"/></g></g>
 <g transform="translate(1646,128) rotate(-48)">
-<g class="flick"><path d="M-50,-9 C-80,-24 -118,-14 -150,0 C-118,14 -80,24 -50,9 Z" fill="url(#flameG)"/><path d="M-50,-5 C-70,-12 -92,-6 -108,0 C-92,6 -70,12 -50,5 Z" fill="#fff6b0" opacity=".95"/></g>
+<g class="flick"><path d="M-50,-10 C-90,-28 -150,-18 -215,0 C-150,18 -90,28 -50,10 Z" fill="url(#flameG)"/><path d="M-50,-5 C-75,-13 -105,-7 -130,0 C-105,7 -75,13 -50,5 Z" fill="#fff6b0" opacity=".95"/></g>
 <path d="M-32,-17 L-54,-46 L-14,-27 Z" fill="#d62828" stroke="#0b0916" stroke-width="3" stroke-linejoin="round"/>
 <path d="M-32,17 L-54,46 L-14,27 Z" fill="#b81f1f" stroke="#0b0916" stroke-width="3" stroke-linejoin="round"/>
 <path d="M-52,-9 L-40,-11 L-40,11 L-52,9 Z" fill="#ff8a3a" stroke="#0b0916" stroke-width="2.5" stroke-linejoin="round"/>
@@ -978,4 +982,7 @@
 </g>
 </g>
 <rect width="2048" height="768" fill="url(#vig)"/>
+<path class="w1" d="M0,612 Q256,564 512,612 T1024,612 T1536,612 T2048,612 T2560,612 T3072,612 T3584,612 T4096,612 L4096,700 L0,700 Z" fill="#0d1117" opacity="0.4"/>
+<path class="w2" d="M0,626 Q256,590 512,626 T1024,626 T1536,626 T2048,626 T2560,626 T3072,626 T3584,626 T4096,626 L4096,700 L0,700 Z" fill="#0d1117" opacity="0.72"/>
+<path class="w3" d="M0,640 Q256,612 512,640 T1024,640 T1536,640 T2048,640 T2560,640 T3072,640 T3584,640 T4096,640 L4096,700 L0,700 Z" fill="#0d1117" opacity="1"/>
 </g></svg>
