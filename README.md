@@ -2,9 +2,9 @@
   <img src="assets/banner.svg" width="100%" alt="Kavidu Purnamal - Space Banner" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=60&duration=3500&color=A855F7&lines=Hi+There!+%F0%9F%91%8B;I'm+Kavidu+Purnamal+%F0%9F%9A%80;MERN+%7C+Flutter+%7C+Unity;Welcome+To+My+Universe+%F0%9F%8C%8C" alt="Typing intro" />
-</h1>
+<div align="center">
+  <img src="assets/greeting.svg" width="100%" alt="Hi there! I'm Kavidu Purnamal" />
+</div>
 
 <p align="center">
   🪐 I'm a passionate developer from Sri Lanka, studying at <b>SLIIT</b>. I build full-stack web apps with the <b>MERN stack</b>, mobile apps with <b>Flutter</b>, and games with <b>Unity</b>. I learn new technologies fast and care about clean, usable software.
