@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Kavidu Purnamal banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f1f"/>
+      <stop offset="0.55" stop-color="#0f2b2b"/>
+      <stop offset="1" stop-color="#7a3512"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="15%" r="60%">
+      <stop offset="0" stop-color="#ff7011" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff7011" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="8%" cy="95%" r="45%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+  <rect width="1200" height="280" fill="url(#glow2)"/>
+  <rect width="1200" height="280" fill="url(#dots)"/>
+
+  <text x="860" y="215" font-family="Consolas, Menlo, monospace" font-size="200" font-weight="700" fill="#ffffff" fill-opacity="0.06">&lt;/&gt;</text>
+  <text x="40" y="250" font-family="Consolas, Menlo, monospace" font-size="120" font-weight="700" fill="#ffffff" fill-opacity="0.05">{ }</text>
+
+  <circle cx="1040" cy="70" r="90" fill="none" stroke="#ff7011" stroke-opacity="0.35" stroke-width="2">
+    <animate attributeName="r" values="80;100;80" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="70" r="55" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1.5">
+    <animate attributeName="r" values="50;65;50" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="60" r="8" fill="#ff7011" fill-opacity="0.8">
+    <animate attributeName="cy" values="60;75;60" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="135" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Kavidu <tspan fill="#ff7011">Purnamal</tspan></text>
+  <text x="600" y="183" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#cfe3e0">Full-Stack Developer  ·  Flutter  ·  Unity  ·  SLIIT Student</text>
+  <rect x="540" y="205" width="120" height="4" rx="2" fill="#ff7011"/>
+</svg>

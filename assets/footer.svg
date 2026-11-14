@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2b2b"/>
+      <stop offset="1" stop-color="#ff7011"/>
+    </linearGradient>
+    <pattern id="fd" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.15"/>
+    </pattern>
+  </defs>
+  <path d="M0 40 C 200 0, 400 80, 600 40 S 1000 0, 1200 40 L1200 110 L0 110 Z" fill="url(#fg)"/>
+  <path d="M0 40 C 200 0, 400 80, 600 40 S 1000 0, 1200 40 L1200 110 L0 110 Z" fill="url(#fd)"/>
+  <text x="600" y="85" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.9">Thanks for visiting  ·  kavidupurnamal.vercel.app</text>
+</svg>
