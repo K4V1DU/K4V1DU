@@ -15,7 +15,11 @@
 <br/>
 
 <div align="center">
-  <img src="assets/toolkit.svg" width="100%" alt="Tech Toolkit - React, Next.js, Node.js, Express, MongoDB, MySQL, Firebase, Flutter, Dart, Unity, C#, C, Java, Python, JavaScript, HTML, CSS, Tailwind, Figma, Git, GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
+    <img src="assets/toolkit-light.svg" width="100%" alt="Tech Toolkit - React, Next.js, Node.js, Express, MongoDB, MySQL, Firebase, Flutter, Dart, Unity, C#, C, Java, Python, JavaScript, HTML, CSS, Tailwind, Figma, Git, GitHub" />
+  </picture>
 </div>
 
 <br/>
